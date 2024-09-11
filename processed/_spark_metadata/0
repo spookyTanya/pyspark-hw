@@ -1,0 +1,5 @@
+v1
+{"path":"file:///C:/Users/Таня/PycharmProjects/spark-test/processed/part-00000-2e26a25d-15d8-4563-b3ba-a9ceaf61ce2e-c000.snappy.parquet","size":2045,"isDir":false,"modificationTime":1726036215844,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/Таня/PycharmProjects/spark-test/processed/part-00001-ac2c176f-878f-4ba8-af7b-a6b2623789e3-c000.snappy.parquet","size":381628,"isDir":false,"modificationTime":1726036215915,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/Таня/PycharmProjects/spark-test/processed/part-00003-5f885402-a368-4791-a683-b06593a51f11-c000.snappy.parquet","size":1021621,"isDir":false,"modificationTime":1726036215914,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/Таня/PycharmProjects/spark-test/processed/part-00004-bd8235f3-e3e9-45ec-bc41-0e428d0b1dca-c000.snappy.parquet","size":1144507,"isDir":false,"modificationTime":1726036215914,"blockReplication":1,"blockSize":33554432,"action":"add"}

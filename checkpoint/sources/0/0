@@ -1,0 +1,5 @@
+v1
+{"path":"file:///C:/Users/Таня/PycharmProjects/spark-test/raw/test-data-1.csv","timestamp":1725558598754,"batchId":0}
+{"path":"file:///C:/Users/Таня/PycharmProjects/spark-test/raw/test-data-2.csv","timestamp":1725558642575,"batchId":0}
+{"path":"file:///C:/Users/Таня/PycharmProjects/spark-test/raw/test-data-3.csv","timestamp":1725558642625,"batchId":0}
+{"path":"file:///C:/Users/Таня/PycharmProjects/spark-test/raw/test.csv","timestamp":1725740134341,"batchId":0}
